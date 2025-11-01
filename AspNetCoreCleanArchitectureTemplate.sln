@@ -5,6 +5,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD3749A9-2DBA-4CB1-9CB1-1956D7060477}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.md = ReadMe.md
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreCleanArchitectureTemplate.Core", "AspNetCoreCleanArchitectureTemplate.Core\AspNetCoreCleanArchitectureTemplate.Core.csproj", "{63117F37-2A92-4CCC-BA68-BD9483E9474F}"
